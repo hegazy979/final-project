@@ -1,0 +1,14 @@
+body{
+    background-image:url(back.jpg) ;
+}
+form{
+    background-color: #307469;
+    border-radius: 6%;
+}
+.link-secondary{
+    color: #fffcfc;
+}
+.display-4{
+    color: #00ff37;
+    font-weight: bold;
+}
